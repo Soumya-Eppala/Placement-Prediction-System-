@@ -1,4 +1,4 @@
-# Placemnet-Prediction-System-
+# Placement-Prediction-System-
 
 Placement Prediction System predicts the probability of an  undergrad 
 student getting placed in an IT company by applying the machine learning models k
